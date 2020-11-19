@@ -29,4 +29,4 @@
 	url = https://github.com/n1nj4sec/mimipy.git
 [submodule "pupy/payload_templates"]
 	path = pupy/payload_templates
-	url = https://github.com/n1nj4sec/pupy-binaries
+	url = https://github.com/sikyu/pupy-binaries
