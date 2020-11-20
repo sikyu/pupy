@@ -9,7 +9,7 @@ paramiko==2.0.2
 tinyec
 psutil
 netifaces
-m2crypto
+M2Crypto==0.29.0
 pylzma
 mss==4.0.3
 colorama
