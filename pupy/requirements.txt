@@ -11,7 +11,7 @@ psutil
 netifaces
 m2crypto
 pylzma
-mss
+mss==4.0.3
 colorama
 pyOpenSSL
 scapy
