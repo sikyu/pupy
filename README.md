@@ -7,7 +7,7 @@ When you package a payload, you can choose a launcher (connect, bind, ...), a tr
 
 ## Installation
 ```
-git clone https://github.com/n1nj4sec/pupy.git pupy
+git clone https://github.com/sikyu/pupy.git pupy
 cd pupy
 git submodule init
 git submodule update
